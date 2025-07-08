@@ -61,7 +61,7 @@ See [examples/dp.py](examples/dp.py) for DP mixture model usage.
 
 ## Documentation
 
-For detailed mathematical background and derivations, see [Sticky HDP-HMM-VAR.md](Sticky%20HDP-HMM-VAR.md).
+For detailed mathematical background and derivations, see [Sticky HDP-HMM-VAR.pdf](Sticky%20HDP-HMM-VAR.pdf).
 
 ## References
 
